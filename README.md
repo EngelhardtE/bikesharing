@@ -6,3 +6,4 @@ The purpose of this project is to visualize Citi Bike data in Tableau. Using the
 
 ## Results
 
+![Gender Breakdown](Images/Gender Breakdown.png)
